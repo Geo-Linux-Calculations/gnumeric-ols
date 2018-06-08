@@ -1,6 +1,0 @@
-ols-circle.gnumeric
-ols-one-sys.gnumeric
-ols-orientir.gnumeric
-ols-tonnel.gnumeric
-ols-xy-bvs-siter.gnumeric
-ols-xy-xyh.gnumeric
