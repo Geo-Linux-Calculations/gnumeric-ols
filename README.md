@@ -12,5 +12,5 @@ Spreadsheets:
 URL: https://github.com/zvezdochiot/gnumeric-ols
 
 --- 
-2018 
+2019 
 zvezdochiot
