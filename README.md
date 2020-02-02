@@ -9,8 +9,8 @@ Spreadsheets:
 * ols-xy-bvs-siter.gnumeric - the solution of the problem of determining the station and orienting by measurements.
 * ols-xy-xyh.gnumeric - the solution of the problem of determining the station and orienting by the relative coordinates.
 
-URL: https://github.com/zvezdochiot/gnumeric-ols
+URL: https://github.com/Geo-Linux-Calculations/gnumeric-ols
 
 --- 
-2019 
+2020 
 zvezdochiot
