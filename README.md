@@ -8,6 +8,7 @@ Spreadsheets:
 * ols-tonnel.gnumeric - tunnel tracking
 * ols-xy-bvs-siter.gnumeric - the solution of the problem of determining the station and orienting by measurements.
 * ols-xy-xyh.gnumeric - the solution of the problem of determining the station and orienting by the relative coordinates.
+* conformaltrans - conformal transformation: 1-3 power.
 
 URL: https://github.com/Geo-Linux-Calculations/gnumeric-ols
 
