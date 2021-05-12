@@ -1,3 +1,9 @@
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Geo-Linux-Calculations/gnumeric-ols)
+![GitHub Release Date](https://img.shields.io/github/release-date/Geo-Linux-Calculations/gnumeric-ols)
+![GitHub repo size](https://img.shields.io/github/repo-size/Geo-Linux-Calculations/gnumeric-ols)
+![GitHub all releases](https://img.shields.io/github/downloads/Geo-Linux-Calculations/gnumeric-ols/total)
+![GitHub](https://img.shields.io/github/license/Geo-Linux-Calculations/gnumeric-ols)
+
 # Gnumeric OLS spreadsheets
 
 Spreadsheets:
