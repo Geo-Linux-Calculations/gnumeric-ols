@@ -9,6 +9,7 @@
 Spreadsheets:
 
 * ols-circle.gnumeric - finding the center and radius of the circle
+* ols-ellips.gnumeric - finding the center and radius of the ellips
 * ols-one-sys.gnumeric - finding a plane for a set of points
 * ols-orientir.gnumeric - direct geodetic intersection (in azimuths)
 * ols-tonnel.gnumeric - tunnel tracking
